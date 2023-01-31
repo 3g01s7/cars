@@ -17,7 +17,6 @@ Due service and maintenance:
     * brake repair
         parts necessary:
             * master brake cylinder (with reservoir) (asked 123)
-            * 3m of copper brake line
             * 2 brake line quick fittings (steel to copper)
             * rear brake hoses, both sides - what size?
         parts ordered:
